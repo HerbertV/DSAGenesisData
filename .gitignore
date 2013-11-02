@@ -1,6 +1,6 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+# all legacy stuff from jDere
+base.xls
+herodata.xsd
+metadata.xsd
+metaindex.xsd
+namedata.xsd
