@@ -1,4 +1,6 @@
-DSAGenesisData
-==============
+![DSA Genesis Logo](https://raw.github.com/HerbertV/DSAGenesis/master/docs/images/DSAGenesisLogo.png)
+#Data
 
-Repo for the data of DSAGenesis
+Contains only the content data for DSAGenesis.
+
+See https://github.com/HerbertV/DSAGenesis
